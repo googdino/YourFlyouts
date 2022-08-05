@@ -76,6 +76,7 @@ iwr -useb "https://raw.githubusercontent.com/Jax-Core/JaxCore/master/CoreInstall
 After you've proceeded through the welcome screen, select `YourFlyouts` (might have to scroll down) and click `Install`. It will appear in the library page after that.
 <br />
 <br />
+
 <!-- END GetStarted.mustache -->
 <!-- START Setup.mustache -->
 
@@ -102,7 +103,7 @@ For more information, visit [JaxCore's documentation](https://jaxcore.gitbook.io
 
 ## Need assistance?
 * Join the [CoreCommunity Discord Server](https://discord.gg/JmgehPSDD6) for help
-* or [Create an issue](https://github.com/Jax-Core/YourFlyouts)
+* or [Create an issue](https://github.com/googdino/YourFlyouts)
 
 ## Say Hi!
 * Follow me on 👨‍💻 [Github](https://github.com/EnhancedJax) and stay updated on new things that I make
